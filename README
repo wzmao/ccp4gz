@@ -1,0 +1,4 @@
+Make VMD could read CCP4 format in gz format.
+
+The code is based on the origin ccp4plugin.c for VMD.
+Wenzhi Mao modify it to gz format.
